@@ -1,7 +1,7 @@
 # custom_cord_global_deafen
 Simple Autohotkey script to globally focus and deafen custom Discord clients that don't support global hotkeys
 
-Tested working in `Vesktop`, `Discord`, `ArmCord`
+Tested working with `Vesktop`, `Discord`, `ArmCord`
 
 #### You have 2 options, depending on if you want to edit the script or not:
   #### Option #1, no editing required, precompiled for `ArmCord` only:
