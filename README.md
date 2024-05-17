@@ -5,7 +5,7 @@ Tested working in `Vesktop`, `Discord`, `ArmCord`
 
 #### You have 2 options, depending on if you want to edit the script or not:
   #### Option #1, no editing required, precompiled for `ArmCord` only:
-  - Run the precompiled release for `ArmCord` that is scheduled for release soon, I am currently having problems compiling on my own production machine
+  - Run the precompiled release for `ArmCord`
   - Press the `Pause` key on your keyboard to focus and deafen yourself on Discord
 
   #### Option #2, requires editing the script to customize to the custom client name you use:
