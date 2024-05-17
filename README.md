@@ -13,7 +13,7 @@ Tested working with `Vesktop`, `Discord`, `ArmCord`
   #### Option #2, requires editing the script to customize to the custom client name you use:
   - Download and install Autohotkey 2.0 here: https://www.autohotkey.com/ ; Autohotkey 1.x is not supported by the script
   - Replace all instances of `ArmCord` in `custom_cord_global_deafen.ahk` in your editor with the window title of your custom client if it has one, e.g. you would put `Discord` for `Vesktop`
-    - Optionally replase the `Pause` on line #3 with a hotkey of your choice
+    - Optionally replace the `Pause` on line #3 with a hotkey of your choice
   - Run or compile using Autohotkey `custom_cord_global_deafen.ahk`
   - Run the compiled .exe and press the hotkey you assigned
 
